@@ -1,0 +1,1 @@
+Open files from FTP or SSH and edit, when saved the file will be uploaded back.
